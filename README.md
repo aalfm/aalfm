@@ -1,3 +1,5 @@
+<div align="center">
+
 ``` text
                      _    _      _ _         _ 
                     | |  | |    | | |       | |
@@ -5,9 +7,11 @@
                     |  __  |/ _ \ | |/ _ \  | |
                     | |  | |  __/ | | (_) | |_|
                     |_|  |_|\___|_|_|\___/  (_)
- ```
-##### I'm Alifah👾
-- 🏫 I'm currently studying **Information Systems** at **Hasanuddin University**.
+```
+<div align="left">
+
+### I'm Alifah👾
+🏫 I'm currently studying **Information Systems** at **Hasanuddin University**.
 <!--
 **aalfm/aalfm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
