@@ -9,7 +9,7 @@
 #### Skill
 [![My Skills](https://skillicons.dev/icons?i=figma,pr&perline=3)](https://skillicons.dev)
 #### Connect with Me🙌
-![https://www.instagram.com/aalfm._](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![www.linkedin.com/in/andialifahmahrani](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aalfm._) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/andialifahmahrani)
 <!--
 **aalfm/aalfm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
