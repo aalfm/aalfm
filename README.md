@@ -3,7 +3,7 @@
 #### I'm Alifah👾
 🏫 **Information Systems** student at **Hasanuddin University**.
 #### What I'm Up To📚
-📖 Currently learning **Object Oriented Programming** and **UI/UX Design**.
+📖 Currently learning **Object Oriented Programming** and **UI/UX Design**.<br>
 🎯 Building my skills in programming and system analysis, aiming to become a professional who can bridge user needs and technical solutions effectively.
 #### Skill
 [![My Skills](https://skillicons.dev/icons?i=figma,pr&perline=3)](https://skillicons.dev)
