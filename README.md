@@ -1,5 +1,4 @@
 ![aalfm](img/github-header-banner%20(2).png)
-<div align="left">
 
 #### I'm Alifah👾
 🏫 **Information Systems** student at **Hasanuddin University**.
