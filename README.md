@@ -1,17 +1,15 @@
-<div align="center">
-
-```text
-  _    _      _ _         _ 
- | |  | |    | | |       | |
- | |__| | ___| | | ___   | |
- |  __  |/ _ \ | |/ _ \  | |
- | |  | |  __/ | | (_) | |_|
- |_|  |_|\___|_|_|\___/  (_)
-```
+![aalfm](img/github-header-banner%20(2).png)
 <div align="left">
 
-### I'm Alifah👾
-🏫 I'm currently studying **Information Systems** at **Hasanuddin University**.
+#### I'm Alifah👾
+🏫 **Information Systems** student at **Hasanuddin University**.
+#### What I'm Up To📚
+📖 Currently learning **Object Oriented Programming** and **UI/UX Design**.
+🎯 Building my skills in programming and system analysis, aiming to become a professional who can bridge user needs and technical solutions effectively.
+#### Skill
+[![My Skills](https://skillicons.dev/icons?i=figma,pr&perline=3)](https://skillicons.dev)
+#### Connect with Me🙌
+![https://www.instagram.com/aalfm._](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![www.linkedin.com/in/andialifahmahrani](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 <!--
 **aalfm/aalfm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
